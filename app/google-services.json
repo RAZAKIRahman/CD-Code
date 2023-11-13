@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083829596334",
+    "project_id": "learnoset-d2297",
+    "storage_bucket": "learnoset-d2297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083829596334:android:784d92ffc90e45436efd3f",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKCaZ_V7cjbs4l5N5U69jAr_1T_cAaow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
